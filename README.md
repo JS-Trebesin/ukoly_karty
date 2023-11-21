@@ -66,7 +66,7 @@ Vytvořte stránku s nejhorším kouzelníkem na světě.
 
 ## 4. Pexeso
 
-### 4a Pexoso pro jednoho hráče
+### 4a Pexeso pro jednoho hráče
 
 *Obtížnost 4/5*
 
@@ -78,7 +78,7 @@ Vytvořte pexeso pro jednoho hráče
 
 
 
-### 4b Pexoso pro dva hráče
+### 4b Pexeso pro dva hráče
 
 *Obtížnost 5/5*
 
@@ -93,7 +93,7 @@ Vytvořte pexeso pro dva hráče
 ![2 player pexeso](https://github.com/JS-Trebesin/ukoly_karty/assets/84028625/6945c544-ac83-432f-b816-7f87efe8d83d)
 
 
-### 4c Pexoso proti počítači
+### 4c Pexeso proti počítači
 
 *Obtížnost 500/5*
 
