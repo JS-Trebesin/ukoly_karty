@@ -53,7 +53,7 @@ Vytvořte stránku s nejhorším kouzelníkem na světě.
 
 _Hint: může se hodit jeden array na barvy a jeden na hodnoty karet_
 
-Ve složce nejhorsi_kouzelnik naleznete obrázky a font ze zadání
+Ve složce [nejhorsi_kouzelnik](/nejhorsi_kouzelnik) naleznete obrázky a font ze zadání
 
 -   Kouzelník vyzve uživatele, ať zvolí kartu, kterou se následně pokusí uhodnout, pomocí ~~mocné magie~~ náhody
 -   Kouzelník zvolí náhodnou kartu
