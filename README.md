@@ -102,8 +102,9 @@ Vytvořte pexeso, kde hraje jeden hráč proti počítači
 - Je to pexeso
 - Střídají se dva hráči
 - Jeden z hráčů je počítač
-- Je potřeba vytvořit logiku, jak počítač otáčí karty
+- Je potřeba vytvořit AI, v tomto případě myšleno logiku, jak počítač postupuje - jak otáčí karty, jestli si pamatuje odehrané karty, atd.
 - Možnost vícero obtížnost - AI s perfektní pamětí vs AI která otáčí karty úplně náhodně
+
 
 
 
