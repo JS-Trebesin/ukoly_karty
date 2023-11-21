@@ -1,1 +1,68 @@
-# ukoly_karty
+# Karetní úkoly
+
+- Úkoly níže jsou řazeny podle obtížnosti (obtížnější úkoly budou hodnoceny výrazně vyšší vahou)
+
+- Ve složkách v tomto repozitáři naleznete materiály k úkolům
+
+- Není potřeba dodržovat grafickou úpravu zadání 1:1. Klidně vymyslete vlastní barevný styl karet/stránek
+
+- Odevzdávejte kdykoliv, následující úkoly nemají pevný termín odevzdání (ale je potřeba někde zmínit, že jste úkol odevzdali)
+
+- Pokud se na něčem zaseknete, neváhjte se přijít poradit
+
+- Pokud se nebude dařit vytvořit verzi ze zadání, zkuste třeba jednodušší verzi nebo naopak, pokud jsou úkoly moc jednoduché, zkuste vytvořit vylepšenou verzi
+
+
+
+### Video materiál
+
+Zkoukněte následující video, jak vytvořit efekt otáčené karty v CSS - [card flip]([url](https://www.youtube.com/watch?v=OV8MVmtgmoY)https://www.youtube.com/watch?v=OV8MVmtgmoY)
+
+Popřípadě na [W3 schools]([url](https://www.w3schools.com/howto/howto_css_flip_card.asp)https://www.w3schools.com/howto/howto_css_flip_card.asp) můžete také naleznout návod na stejný efekt.
+
+## 1. Náhodná barva
+
+*Obtížnost 1/5*
+
+- Na stránce je karta. Po kliku na ní se náhodně vygeneruje jedna z herních barev.
+
+*Hint: Může se hodit následující array: `const suits = ["♠", "♥", "♦", "♣"]˙`*
+
+![random_suit](https://github.com/JS-Trebesin/ukoly_karty/assets/84028625/6ee0258a-bc0e-4174-a9fd-2c9ea299e925)
+
+
+## 2. Skořápky
+
+*Obtížnost 3/5*
+
+Skořápky a jejich karetní podoba Three-card Monte jsou známou podvodnickou hrou, kterou nelze vyhrát. Vytvořte její webovou verzi.
+
+- Karty začínájí odhalené, uživatel má možnost zapamatovat si, kde je eso
+- Po kliku na tlačítko začíná hra, karty se otočí rubem
+- Po kliku na jakoukoliv kartu se karty opět otočí lícem, přičemž uživatel nikdy nevyhraje
+- Karta na kterou uživatel klikl bude vždy nevýherní karta (v ukázce 2♣) a eso se vždy bude nacházet na jiné pozici, než uživatel kliknul
+- Tlačítko umožní hrát znovu
+- Na stránce je počítadlo proher
+
+
+![monte-gif](https://github.com/JS-Trebesin/ukoly_karty/assets/84028625/3898d491-29d7-4d44-9771-c971141d4aaa)
+
+
+### 3. Nejhorší kouzelník na světě
+
+*Obtížnost 3/5*
+
+Vytvořte stránku s nejhorším kouzelníkem na světě.
+
+*Hint: může se hodit jeden array na barvy a jeden na hodnoty karet*
+
+- Kouzelník vyzve uživatele, ať zvolí kartu, kterou se následně pokusí uhodnout, pomocí ~~mocné magie~~ náhody
+- Kouzelník zvolí náhodnou kartu
+- Uživatel zvolí, jestli chce dát kouzelníkovi další šanci na uhodnutí karty
+- Maximum 3 pokusy
+- Kouzelníkova nálada upadá s počtem neuhodnutých pokusů
+
+![worst_mag_lose](https://github.com/JS-Trebesin/ukoly_karty/assets/84028625/1179e6a9-6690-4c1b-a40a-144b449ac14e)
+
+
+
