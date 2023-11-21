@@ -95,8 +95,8 @@ Vytvořte pexeso pro dva hráče
 - Je to pexeso
 - Střídají se dva hráči
 - Na stránce je počítadlo skóre pro dva hráče
-- Možné vylepšení: ukazatel, který hráč je na řadě
 - Stránka oznámí výsledek zápasu
+- Možné vylepšení: ukazatel, který hráč je na řadě
   
 ![2 player pexeso](https://github.com/JS-Trebesin/ukoly_karty/assets/84028625/6945c544-ac83-432f-b816-7f87efe8d83d)
 
