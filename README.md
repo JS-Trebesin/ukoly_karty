@@ -115,6 +115,8 @@ Vytvořte pexeso, kde hraje jeden hráč proti počítači
 
 Vytvořte jinou/vlastní karetní hru nebo stránku
 
+*Obtížnost ?/5*
+
 - Větší bere? 
 - Blackjack? 
 - Vlastní originální stránka
