@@ -80,6 +80,8 @@ Nepohyblivé obrázky z různých fází hry: [obr1](https://github.com/JS-Trebe
 
 Vytvořte pexeso pro jednoho hráče
 
+*Hint: při větším počtu karet se může hodit vytváření zadní a přední strany karty pomocí pseudo elementů `::before` a `::after` - není nutné, ale umožní to přehlednější HTML kód
+
 - Je to pexeso
 
 ![1 player pexeso](https://github.com/JS-Trebesin/ukoly_karty/assets/84028625/3ae57dcd-9997-4f04-ab0f-2661b911e92a)
