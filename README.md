@@ -8,7 +8,7 @@
 
 - Odevzdávejte kdykoliv, následující úkoly nemají pevný termín odevzdání (ale je potřeba někde zmínit, že jste úkol odevzdali)
 
-- Pokud se na něčem zaseknete, neváhjte se přijít poradit
+- Pokud se na něčem zaseknete, neváhejte se přijít poradit
 
 - Pokud se nebude dařit vytvořit verzi ze zadání, zkuste třeba jednodušší verzi nebo naopak, pokud jsou úkoly moc jednoduché, zkuste vytvořit vylepšenou verzi
 
