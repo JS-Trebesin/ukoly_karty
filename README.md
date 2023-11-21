@@ -12,6 +12,8 @@
 
 -   Pokud se nebude dařit vytvořit verzi ze zadání, zkuste třeba jednodušší verzi nebo naopak, pokud jsou úkoly moc jednoduché, zkuste vytvořit vylepšenou verzi
 
+-   Tento repozitář obsahuje automatický pull request - tento pull request nemergujte, slouží pro zpětnou vazbu a komunikaci k vašemu kódu
+
 ### Video materiál
 
 Zkoukněte následující video, jak vytvořit efekt otáčené karty v CSS - [card flip](https://www.youtube.com/watch?v=OV8MVmtgmoY)
