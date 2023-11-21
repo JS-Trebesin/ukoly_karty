@@ -44,8 +44,12 @@ Skořápky a jejich karetní podoba Three-card Monte jsou známou podvodnickou h
 - Tlačítko umožní hrát znovu
 - Na stránce je počítadlo proher
 
+[Nepohyblivý obrázek zadání](https://github.com/JS-Trebesin/ukoly_karty/assets/84028625/cf77cd0f-3b24-4fa7-a5f5-e98e1ac83d14)
 
 ![monte-gif](https://github.com/JS-Trebesin/ukoly_karty/assets/84028625/3898d491-29d7-4d44-9771-c971141d4aaa)
+
+
+
 
 
 ### 3. Nejhorší kouzelník na světě
@@ -61,6 +65,10 @@ Vytvořte stránku s nejhorším kouzelníkem na světě.
 - Uživatel zvolí, jestli chce dát kouzelníkovi další šanci na uhodnutí karty
 - Maximum 3 pokusy
 - Kouzelníkova nálada upadá s počtem neuhodnutých pokusů
+- Po kliknutí na tlačítko po konci hry se spustí oslavný/smutný gif
+
+Nepohyblivé obrázky z různých fází hry: [obr1](https://github.com/JS-Trebesin/ukoly_karty/assets/84028625/c4966bfa-1ec1-4ab3-baae-7a6eb785e488) [obr2](https://github.com/JS-Trebesin/ukoly_karty/assets/84028625/6b4c2f0b-e66a-4d22-9d89-05b156b38d7e) [obr3](https://github.com/JS-Trebesin/ukoly_karty/assets/84028625/e7f0a882-b7b5-45a1-bf40-9301e44468f5) [obr4](https://github.com/JS-Trebesin/ukoly_karty/assets/84028625/5727e8b9-92b5-47a6-9974-6341d3312d5f) [obr5](https://github.com/JS-Trebesin/ukoly_karty/assets/84028625/57cc31ad-525a-45a5-af72-d8512bfc4d84)
+
 
 ![worst_mag_lose](https://github.com/JS-Trebesin/ukoly_karty/assets/84028625/1179e6a9-6690-4c1b-a40a-144b449ac14e)
 
