@@ -109,3 +109,12 @@ Vytvořte pexeso, kde hraje jeden hráč proti počítači
 -   Jeden z hráčů je počítač
 -   Je potřeba vytvořit AI, v tomto případě myšleno logiku, jak počítač postupuje - jak otáčí karty, jestli si pamatuje odehrané karty, atd.
 -   Možnost vícero obtížnost - AI s perfektní pamětí vs AI která otáčí karty úplně náhodně
+
+
+## 5. Jiná karetní hra/stránka
+
+Vytvořte jinou/vlastní karetní hru nebo stránku
+
+- Větší bere? 
+- Blackjack? 
+- Vlastní originální stránka
