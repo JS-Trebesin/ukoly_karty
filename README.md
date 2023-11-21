@@ -16,9 +16,9 @@
 
 ### Video materiál
 
-Zkoukněte následující video, jak vytvořit efekt otáčené karty v CSS - [card flip]([url](https://www.youtube.com/watch?v=OV8MVmtgmoY)https://www.youtube.com/watch?v=OV8MVmtgmoY)
+Zkoukněte následující video, jak vytvořit efekt otáčené karty v CSS - [card flip](https://www.youtube.com/watch?v=OV8MVmtgmoY)
 
-Popřípadě na [W3 schools]([url](https://www.w3schools.com/howto/howto_css_flip_card.asp)https://www.w3schools.com/howto/howto_css_flip_card.asp) můžete také naleznout návod na stejný efekt.
+Popřípadě na [W3 schools](https://www.w3schools.com/howto/howto_css_flip_card.asp) je také návod na kýžený efekt, video výše jej však lépe vysvětluje.
 
 ## 1. Náhodná barva
 
@@ -63,6 +63,49 @@ Vytvořte stránku s nejhorším kouzelníkem na světě.
 - Kouzelníkova nálada upadá s počtem neuhodnutých pokusů
 
 ![worst_mag_lose](https://github.com/JS-Trebesin/ukoly_karty/assets/84028625/1179e6a9-6690-4c1b-a40a-144b449ac14e)
+
+### 4. Pexeso
+
+## 4a Pexoso pro jednoho hráče
+
+*Obtížnost 4/5*
+
+Vytvořte pexeso pro jednoho hráče
+
+- Je to pexeso
+
+![1 player pexeso](https://github.com/JS-Trebesin/ukoly_karty/assets/84028625/3ae57dcd-9997-4f04-ab0f-2661b911e92a)
+
+
+
+## 4b Pexoso pro dva hráče
+
+*Obtížnost 5/5*
+
+Vytvořte pexeso pro dva hráče
+
+- Je to pexeso
+- Střídají se dva hráči
+- Na stránce je počítadlo skóre pro dva hráče
+- Možné vylepšení: ukazatel, který hráč je na řadě
+- Stránka oznámí výsledek zápasu
+  
+![2 player pexeso](https://github.com/JS-Trebesin/ukoly_karty/assets/84028625/6945c544-ac83-432f-b816-7f87efe8d83d)
+
+
+## 4c Pexoso proti počítači
+
+*Obtížnost 500/5*
+
+Vytvořte pexeso, kde hraje jeden hráč proti počítači
+
+- Je to pexeso
+- Střídají se dva hráči
+- Jeden z hráčů je počítač
+- Je potřeba vytvořit logiku, jak počítač otáčí karty
+- Možnost vícero obtížnost - AI s perfektní pamětí vs AI která otáčí karty úplně náhodně
+
+
 
 
 
