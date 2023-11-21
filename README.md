@@ -69,7 +69,7 @@ Vytvořte stránku s nejhorším kouzelníkem na světě.
 
 Nepohyblivé obrázky z různých fází hry: [obr1](https://github.com/JS-Trebesin/ukoly_karty/assets/84028625/c4966bfa-1ec1-4ab3-baae-7a6eb785e488) [obr2](https://github.com/JS-Trebesin/ukoly_karty/assets/84028625/6b4c2f0b-e66a-4d22-9d89-05b156b38d7e) [obr3](https://github.com/JS-Trebesin/ukoly_karty/assets/84028625/e7f0a882-b7b5-45a1-bf40-9301e44468f5) [obr4](https://github.com/JS-Trebesin/ukoly_karty/assets/84028625/5727e8b9-92b5-47a6-9974-6341d3312d5f) [obr5](https://github.com/JS-Trebesin/ukoly_karty/assets/84028625/57cc31ad-525a-45a5-af72-d8512bfc4d84)
 
-[Gif - vítězství](https://github.com/JS-Trebesin/ukoly_karty/assets/84028625/39185363-0d6e-46dd-9eec-119ca7ca87df)
+[Alretnativní gif - vítězství](https://github.com/JS-Trebesin/ukoly_karty/assets/84028625/39185363-0d6e-46dd-9eec-119ca7ca87df)
 
 
 
