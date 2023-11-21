@@ -64,9 +64,9 @@ Vytvořte stránku s nejhorším kouzelníkem na světě.
 
 ![worst_mag_lose](https://github.com/JS-Trebesin/ukoly_karty/assets/84028625/1179e6a9-6690-4c1b-a40a-144b449ac14e)
 
-### 4. Pexeso
+## 4. Pexeso
 
-## 4a Pexoso pro jednoho hráče
+### 4a Pexoso pro jednoho hráče
 
 *Obtížnost 4/5*
 
@@ -78,7 +78,7 @@ Vytvořte pexeso pro jednoho hráče
 
 
 
-## 4b Pexoso pro dva hráče
+### 4b Pexoso pro dva hráče
 
 *Obtížnost 5/5*
 
@@ -93,7 +93,7 @@ Vytvořte pexeso pro dva hráče
 ![2 player pexeso](https://github.com/JS-Trebesin/ukoly_karty/assets/84028625/6945c544-ac83-432f-b816-7f87efe8d83d)
 
 
-## 4c Pexoso proti počítači
+### 4c Pexoso proti počítači
 
 *Obtížnost 500/5*
 
